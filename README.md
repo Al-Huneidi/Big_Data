@@ -1,2 +1,2 @@
 # Big_Data
-Analysis of big data using NLP and ML
+Analysis of big data using Apache Spark, NLP, PostgresSQL and ML.
