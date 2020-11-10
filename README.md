@@ -1,5 +1,5 @@
 # Big_Data
-Analysis of big data using AWS, PySpark, Apache Spark, NLP, PostgresSQL and ML.
+Analysis of big data using SQL, AWS, PySpark, Apache Spark, NLP, and ML.
 
 Links to Colab Notebooks:
 
